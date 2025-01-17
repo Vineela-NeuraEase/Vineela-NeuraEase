@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vineela! Co-founder of NeuraEase- a mental health tech startup.
+- 👋 Hi, I’m @Vineela! Co-founder of NeuraEase- a mentalhealth tech startup.
 - 👀 I’m interested in Machine Learning and Mental Health
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on health techn startups
